@@ -3,9 +3,8 @@ Actuarial Claims Frequency &amp; Severity Modelling Using The Swedish Motor Insu
 
 Actuarial modelling project to prepare for a graduate level role
 
-Aim
-- replicate the workflow of an insurance pricing analyst
-      - Familarise with and clean large data set
-      - Analyse the risk factors
-      - Model claim behaviour
-      - Communicate results in an actuarial manner
+the aimis to replicate the workflow of an insurance pricing analyst
+- Familarise with and clean large data set
+- Analyse the risk factors
+- Model claim behaviour
+- Communicate results in an actuarial manner
