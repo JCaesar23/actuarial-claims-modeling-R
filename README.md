@@ -1,5 +1,5 @@
 # actuarial-claims-modeling-R
-Actuarial Claims Frequency &amp; Severity Modelling Using The Swedish Motor Insurance Dataset
+Actuarial Claims Frequency &amp; Severity Modelling Using The Automobile UK Collision Claims Dataset
 
 
 Actuarial modelling project to prepare for a graduate level role
