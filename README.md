@@ -1,11 +1,9 @@
 # actuarial-claims-modeling-R
 Actuarial Claims Frequency &amp; Severity Modelling Using The Automobile UK Collision Claims Dataset
 
-
 Actuarial modelling project to prepare for a graduate level role
 
-
-the aim is to replicate the workflow of an insurance pricing analyst
+The aim is to replicate the workflow of an insurance pricing analyst
 - Familarise with and clean large data set
 - Analyse the risk factors
 - Model claim behaviour
